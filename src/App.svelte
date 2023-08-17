@@ -56,6 +56,22 @@
 
     </div>
 
+    <div class="md:mt-[96px] md:mb-[64px] my-5 md:px-[94px] px-5">
+<div class="px-8">
+<div class="flex flex-col">
+<p class="text-[#284D19] text-base font-semibold pb-3">
+Our Mission
+</p>
+    <p class="text-[#101828] font-semibold text-4xl pb-5 ">
+        Providing a seamless shopping experience.
+    </p>
+    <p class="text-[#475467] text-lg font-semibold">
+        Offering a unique, simple, and seamless shopping experience.
+    </p>
+</div>
+</div>
+    </div>
+
 
 </main>
 
